@@ -1,17 +1,16 @@
 # ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 
-## lab-33-context-api
+## lab-34-login-auth
 
 ### Author: Bonnie Wang
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-bw/lab-33-context-api-part2/pull/1)
+- [submission PR](https://github.com/jcbwang/lab-34-login-auth/edit/master/README.md)
 - [travis](https://www.travis-ci.com/401-advanced-javascript-bw/lab-33-context-api-part2)
 
 #### Documentation
 
-- [api docs](http://xyz.com) (API servers)
 - [jsdoc](http://xyz.com) (Server assignments)
 - [styleguide](http://xyz.com) (React assignments)
 
@@ -32,6 +31,10 @@
 #### `list.js` -> updates and changes form state
 
 #### `todo.js` -> combination of form and list
+
+#### `ACLAuth.js` -> manages authorization
+
+#### `signup.js` -> sign in to app
 
 #### Running the app
 
